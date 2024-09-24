@@ -30,3 +30,4 @@ Please visit [the official forum](http://www.paulscode.com/forum/index.php) for 
 4. Build and run the app from Android Studio
    - Select Build --> Make Project to build
    - Select Run --> Run app to run
+
